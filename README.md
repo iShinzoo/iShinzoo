@@ -1,8 +1,8 @@
-<h2 align="center">Hi 👋! My name is Krishna and I'm an Android Devloper</h2>
+<h2 align="left">Hi 👋! My name is Krishna and I'm an Android Devloper</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=iShinzoo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=iShinzoo&locale=en&mode=daily&theme=default&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
