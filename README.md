@@ -1,5 +1,17 @@
 <h2 align="left">Hi 👋! My name is Krishna and I'm an Android Devloper</h2>
 
+- 🔭 I’m currently working as a **Modern Android Developer**
+
+- 🌱 I’m currently learning **Blockchain and building Android Projects**
+
+- 👯 I’m looking to collaborate on **Android Dev Projects**
+
+- 💬 Ask me about **Android**
+
+- 📫 How to reach me **work.krsna4@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Sx9t91AwbVHQc0L6zYpBVxBmBvzNdRpd/view](https://drive.google.com/file/d/1Sx9t91AwbVHQc0L6zYpBVxBmBvzNdRpd/view)
+
 ###
 
 <div align="left">
