@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **work.krsna4@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Sx9t91AwbVHQc0L6zYpBVxBmBvzNdRpd/view](https://drive.google.com/file/d/1Sx9t91AwbVHQc0L6zYpBVxBmBvzNdRpd/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Sx9t91AwbVHQc0L6zYpBVxBmBvzNdRpd/view)
 
 ###
 
