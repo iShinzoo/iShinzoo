@@ -16,18 +16,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/iShinzoo/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=@i.krsna4&theme=graywhite" alt="Layout with last medium posts"  />
-</div>
-
-###
-
 <h3 align="left">🔥   My Stats :</h3>
 
 ###
