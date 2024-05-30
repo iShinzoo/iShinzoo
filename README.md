@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **work.krsna4@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Sx9t91AwbVHQc0L6zYpBVxBmBvzNdRpd/view)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/140JcvIXQ4cCkVvxFwcu8MvFiemTA6D9r/view?usp=drive_link)
 
 ###
 
