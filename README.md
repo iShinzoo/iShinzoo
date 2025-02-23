@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Krishna and I'm an Android Devloper</h2>
+<h2 align="left">Hi 👋! My name is Krishna and I'm an Android Developer</h2>
 
 <h3 align="left">👩‍💻  About Me</h3>
 
