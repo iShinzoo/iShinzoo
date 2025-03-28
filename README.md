@@ -13,7 +13,7 @@
 🎓 **CS Undergrad** @ Jaypee University · **Android & Blockchain Dev**  
 🚀 Crafting seamless mobile apps and decentralized solutions <br>
 📫 Reach me: [work.krsna4@gmail.com](mailto:work.krsna4@gmail.com) <br>
-📄 [Resume](https://drive.google.com/file/d/140JcvIXQ4cCkVvxFwcu8MvFiemTA6D9r/view) | 🌐 [Portfolio](https://krishna-thakur.vercel.app/)
+📄 [Resume](https://drive.google.com/drive/folders/1qyoRmDdeMeYtPzkF8sg4HhLqFOmmvfBi/view) | 🌐 [Portfolio](https://krishna-thakur.vercel.app/)
 
 ## 🛠️ Tech Stack
 
